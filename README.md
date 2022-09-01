@@ -1,4 +1,4 @@
-# passwordcheck
+# Hashing Protocol SHA16 + API
 This procedure allows to check your password in a safe way.
 You should set the environment for the API file
 How to use passwordchek :
